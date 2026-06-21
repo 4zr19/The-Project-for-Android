@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ScamScanner</string>
+    <string name="app_name">Lighthouse</string>
+    <string name="screen_watcher_service_label">Lighthouse Screen Protection</string>
+    <string name="screen_watcher_accessibility_description">Lighthouse monitors your screen to detect scams and phishing attempts and alerts you in real time.</string>
 </resources>
